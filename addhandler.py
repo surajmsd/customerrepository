@@ -1,5 +1,5 @@
 import tornado.web
-from customers import customer
+from customers import Customer
 import json
 
 
